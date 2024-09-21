@@ -22,6 +22,9 @@ folder are updated and the component is re-rendered.
 - Simple and intuitive GUI
 
 <h2>Some screenshots</h2>
+<img src="https://github.com/user-attachments/assets/0910f901-f704-481f-a1e6-0d0857f9b7ba" align="center"/>
+<br><br>
+<img src="https://github.com/user-attachments/assets/d1b31cbc-7731-4f4b-86ed-b0721c8c6473" align="center"/>
 
 <h2>Future improvements</h2>
 
